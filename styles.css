@@ -76,7 +76,7 @@ main {
 
 #hero {
     padding: 100px 20px;
-    background-image: url('/images/download_image_1715937208302.png');
+    background-image: url('download_image_1715937208302.png');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
